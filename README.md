@@ -1,7 +1,7 @@
 <p align="center"> 
-<b>༺═════════[👸]══════════༻</b>
+<b>༺═════════[👸❤️]══════════༻</b>
 </p>
-<p align="center">
+<p align="center"> 
 <img src="https://te.legra.ph/file/8be699bf71bfa93acac3f.jpg" width="300" height="300"/>
 </p>
 <p align="center">
@@ -19,22 +19,17 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Janithsadanuwan/QueenNilu/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/Janithsadanuwan/QueenNilu/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
 </p>
-#
 
-* ['WEBSITE'](https://www.janithsadanuwan.tech/QueenNilu)
+## [`WebSite`](https://www.janithsadanuwan.tech/QueenNilu)
 
 # 
 
-<b>Version --> 3.0.0</b>
+<b>Version --> 1.1.0</b>
 # 
 Queen Nilu whatsapp bot is,
 A very good bot that you can use in whatsapp.
 
-
-# 
-* 𝗙𝗢𝗥𝗞 𝗡𝗢𝗪
-<p align="left">
-<a href="https://github.com/Janithsadanuwan/QueenNilu/fork"><img align="center" src="https://te.legra.ph/file/a0d19ec253c4700b1e695.png" alt="Fork and deploy" height="35" width="155" /></a>
+## [`Fork QueenNilu Repo`](https://github.com/Janithsadanuwan/QueenNilu/fork)
 
 
 # 
@@ -46,13 +41,18 @@ A very good bot that you can use in whatsapp.
   if there any error please infrom it support group ✨
 # 
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app?referralCode=FnnJ_C)
+[`Deploy on Railway`](https://railway.app?referralCode=FnnJ_C)
 
 [`Deploy on Koyeb`](https://app.koyeb.com/)
 
 [`Deploy on Mogenius`](https://studio.mogenius.com/)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=)
+[`Deploy on Heroku`](https://heroku.com/deploy?template=)
+
+[`Deploy on uffizzi`](https://www.uffizzi.com/)
+
+[`Deploy on Replit`](https://replit.com/github/Janithsadanuwan/QueenNilu)
+
 
 * 𝗛𝗘𝗥𝗢𝗞𝗨 𝗧𝗘𝗠𝗣𝗟𝗔𝗧𝗘 𝗟𝗜𝗡𝗞
        
@@ -61,10 +61,6 @@ A very good bot that you can use in whatsapp.
 
 ## [`WATCH YOUTUBE VIDEO`](https://youtu.be/4jnKUto3i3c)
 
-
-# 
-# 
-#
 + DEPLOY STEPS
 # 
 1. Fork This Repository 
@@ -72,8 +68,35 @@ A very good bot that you can use in whatsapp.
 3. Uplode session.json file
 4. Make acount on railway , heroku , mogenius or koyeb 
 5. Connect Your Repository to your web host site
-6. [ Watch Video]()
+6. [ Watch Video](https://youtu.be/4jnKUto3i3c)
 # 
+# How to Update Bot 
+
+<p align="left">
+<img src="https://telegra.ph/file/6af1182fb6bf4b3a43e1d.jpg"/>
+</p>
+
+  RAILWAY & KOYEB USERS :
+
+01. Visit to your GitHub and open your Queen Nilu fork repo.
+02. Under the green colour button as "Code" you will see "Sync fork" button. Click it.
+03. Then, you will see green colour button as "Update branch". Click it.
+04. Now, automatically bot will update.
+
+  LOCAL OR VPS USERS :  
+01. Visit to your GitHub and open your Queen Nilu fork repo.
+02. Under the green colour button as "Code" you will see "Sync fork" button. Click it.
+03. Then, you will see green colour button as "Update branch". Click it.
+04. Open command prompt and command git clone your_fork_url
+05. And it will update your files. Now, command cd QueenNilu && npm run pm-restart
+   
+   
+
+01. Visit to your GitHub and open your Queen  Nilu fork repo.
+02. Under the green colour button as "Code" you will see "Sync fork" button. Click it.
+03. Then, you will see green colour button as "Update branch". Click it.
+04. Connect to VPS and command git clone your_fork_url
+05. And it will update your files. Now, command cd QueenNilu && npm run pm-restart
 # 
 # 
 
@@ -81,11 +104,11 @@ THANAKS FOR USNING QUEEN nilu💃💖
 
 [🧑‍💻 Join Queen Nilu Support Group 🧑‍💻](https://t.me/QueenNilu)
 
-[🦄 Join Public Group 🦄](https://chat.whatsapp.com/)
+[💃 Join Public Group 💃](https://chat.whatsapp.com/)
 
 
 
-<h1>💗</h1> 
+<h1>💃💖</h1> 
 <b>Thanks For</b> -
 
- [QUEENElisa](github.com/QueenElisa) for script ,@MRnima Thanks
+[QUEENElisa](github.com/QueenElisa) for script ,@MRnima Thanks

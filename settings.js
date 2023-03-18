@@ -1,6 +1,14 @@
 /*
 ===================================================================================================
 💃 𝗤𝘂𝗲𝗲𝗻 𝗡𝗶𝗹𝘂 𝗕𝗼𝘁 𝗠𝗱 💃
+   ____                           _   _ _ _       
+  / __ \                         | \ | (_) |      
+ | |  | |_   _  ___  ___ _ __    |  \| |_| |_   _ 
+ | |  | | | | |/ _ \/ _ \ '_ \   | . ` | | | | | |
+ | |__| | |_| |  __/  __/ | | |  | |\  | | | |_| |
+  \___\_\\__,_|\___|\___|_| |_|  |_| \_|_|_|\__,_|
+                                                  
+                                                  BY Janiya
 ===================================================================================================
 */
 
@@ -38,7 +46,7 @@ global.antilink =  'false'
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
-global.OWNER_REACT =  '💻'
+global.OWNER_REACT =  '🐼'
 global.BAD_KICK_MSG = '*Bad word detect !*'
 //👇 URL.button 1 name
 global.BUTTON1 = '⚒ 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙱𝙾𝚃 𝙶𝚁𝙾𝚄𝙿 ⚒'
@@ -66,7 +74,7 @@ global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
 global.REMOVE_BG_API = ''
 //👇 Pron Video Download 
 global.SEX_VIDEO_DOWNLOAD = process.env.SEX_VIDEO_DOWNLOAD || 'true'
-//👇 Change Bot Language 
+//👇 Change Bot Language (English-' EN ', Sinhala , ' SI ' , Tamil - ' TL ')
 global.LANG = 'EN'
 //Alive logo
 global.alivelogo = process.env.ALIVE_IMAGE || `https://te.legra.ph/file/3e57249993356ba15109f.jpg`
