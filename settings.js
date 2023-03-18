@@ -89,9 +89,7 @@ global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `╠බොට් 𝗔𝗖�
 
 ╠𝐍𝐎❗𝐒𝐄𝐗 ╣
 
-[ᴿᴵʸᴬᴸ 𝙺𝙸𝙽𝙶 🅳𝙰𝚁𝙺 𝙳𝙴𝚅𝙸𝙻 ]
-
-𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁`
+[ᴿᴵʸᴬᴸ 𝙺𝙸𝙽𝙶 🅳𝙰𝚁𝙺 𝙳𝙴𝚅𝙸𝙻 ]`
 //👇 Welcome Mesaage
 global.WELCOME = process.env.WELCOME || ``
 //👇 welcome image 
