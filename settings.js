@@ -14,7 +14,7 @@ global.READ_MASSAGE = 'false'
 //👇 enable desable Girls Voice Reply
 global.VOICE_REPLY =  'true'
 // You Bots Owner Number 
-global.owner = ['94765256210'] 
+global.owner = ['94768462285'] 
 //👇 Your Caption ( Image Video )
 global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙳𝙰𝚁𝙺 🅳𝙴𝚅𝙸𝙻 𝚆𝙿 𝙱𝙾𝚃 ࿐'
 //👇 Do you want show time on your bio use "on" want desable use "off"
@@ -71,7 +71,8 @@ global.LANG = 'EN'
 //Alive logo
 global.alivelogo = process.env.ALIVE_IMAGE || `https://te.legra.ph/file/3e57249993356ba15109f.jpg`
 //👇 Alive message
-global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `╠බොට් 𝗔𝗖𝗧𝗜𝗩𝗘 ද..කියලා බැලිමට ╠[𝐀𝐋𝐈𝐕𝐄] ලෙස පල කරන්න.
+global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `ǫᴜᴇᴇɴ ɴɪʟᴜ╠
+බොට් 𝗔𝗖𝗧𝗜𝗩𝗘 ද..කියලා බැලිමට ╠[𝐀𝐋𝐈𝐕𝐄] ලෙස පල කරන්න.
 
 ╠(24×7) පැය විසිහතර තුළම ╠ක්‍රියාකරයි✅
 
@@ -89,7 +90,8 @@ global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `╠බොට් 𝗔𝗖�
 
 ╠𝐍𝐎❗𝐒𝐄𝐗 ╣
 
-[ᴿᴵʸᴬᴸ 𝙺𝙸𝙽𝙶 🅳𝙰𝚁𝙺 𝙳𝙴𝚅𝙸𝙻 ]`
+[ᴿᴵʸᴬᴸ 𝙺𝙸𝙽𝙶 🅳𝙰𝚁𝙺 𝙳𝙴𝚅𝙸𝙻 ]
+ǫᴜᴇᴇɴ ɴɪʟᴜ`
 //👇 Welcome Mesaage
 global.WELCOME = process.env.WELCOME || ``
 //👇 welcome image 
